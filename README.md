@@ -1,16 +1,29 @@
-## Hi there 👋
+# Krishnan Subramanian
 
-<!--
-**krishnan-sec/krishnan-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior / Staff-level Security Engineer with experience securing cloud-native
+products and enterprise platforms.
 
-Here are some ideas to get you started:
+I focus on building practical, scalable security that enables engineering teams
+while reducing systemic risk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Areas of Focus
+
+- Product & Application Security (Threat Modeling, Secure SDLC, Design Reviews)
+- Cloud Security (AWS / Azure, IAM, Zero Trust)
+- Security Architecture & Platform Security
+- Vulnerability Management & Secure CI/CD
+- Security Automation (Terraform, GitHub Actions, Python)
+- AI & Security (GenAI risk, secure AI patterns)
+
+## 🧠 Security Philosophy
+
+- Security should scale with engineering velocity
+- Controls should be automated or removed
+- Design reviews prevent incidents better than alerts
+- Documentation is a security control
+- Security teams should be force multipliers
+
+## 📌 About This GitHub
+
+This GitHub profile is used to share security patterns, reference architectures,
+and practical examples drawn from real-world systems.
