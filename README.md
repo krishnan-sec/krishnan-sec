@@ -14,7 +14,7 @@ reduce systemic risk across the organization.
   (Web applications, APIs, SaaS platforms, Threat Modeling, Secure SDLC)
 
 - Cloud & Platform Security  
-  (AWS / Azure, IAM, Zero Trust, Kubernetes, cloud-native architectures)
+  (Azure / AWS, IAM, Zero Trust, Kubernetes, cloud-native architectures)
 
 - Endpoint & Device Security  
   (Endpoint protection, device hardening, identity-driven access controls)
@@ -26,7 +26,7 @@ reduce systemic risk across the organization.
   (Risk prioritization, remediation workflows, pipeline security)
 
 - Security Automation and Preventive Controls  
-  (Terraform, GitHub Actions, Python-based automation)
+  (Terraform, n8n workflows, Python-based automation)
 
 - AI & Security  
   (GenAI risk assessment, secure AI design patterns, model and data protection)
