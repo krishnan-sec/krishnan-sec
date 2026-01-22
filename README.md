@@ -7,7 +7,7 @@ enterprise environments, and endpoint ecosystems.
 I work at the intersection of **security architecture, product engineering, and
 risk**, helping organizations embed security by design, scale preventive controls,
 and enable teams to move fast without increasing exposure.
-q
+
 ## 🔐 Areas of Responsibility
 
 - Product and Application Security (Web, APIs, Secure SDLC)
